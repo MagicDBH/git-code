@@ -1,4 +1,5 @@
 //冒泡排序
+//然而还是不会用
 #include<stdio.h>
 int main()
 {
