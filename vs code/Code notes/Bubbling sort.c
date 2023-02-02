@@ -4,6 +4,7 @@
 int main()
 {
     int a[100];
+    int ad;
     int i,j,b,c,d,n;
     scanf("%d",&n);      //输入所排序数据的个数（可忽略）
     for(b=0;b<n;b++)
